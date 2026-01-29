@@ -51,4 +51,23 @@ This will initialize the engine with example zeros, run the semi-spiral flow, ch
 
 
 - `papers/svg_gamma_core.tex` : Core methodology and proof framework
+
 - `papers/appendix_bridge_proofs.tex` : Detailed Bridge-Theorem proofs
+
+DATA/LICENSE_DATA.txt
+text
+DATA USAGE TERMS
+
+The zeros data in zeros_simple.txt contains 500 Riemann zeta zeros
+(indices 21501-22500) derived from publicly available sources.
+
+Usage Conditions:
+1. For academic and research purposes only
+2. Attribution to original sources required:
+   - LMFDB (L-functions and Modular Forms Database)
+   - Odlyzko, A. M. "Supercomputers and the Riemann zeta function"
+3. No warranty of accuracy is provided
+4. Redistribution must include this license file
+
+These terms apply only to the data files, not to the software code
+(which is covered by the MIT License in the parent directory).
