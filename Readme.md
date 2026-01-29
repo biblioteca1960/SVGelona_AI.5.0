@@ -60,8 +60,6 @@ DATA/LICENSE_DATA.txt
 
 DATA USAGE TERMS
 
-The zeros data in zeros_simple.txt contains 500 Riemann zeta zeros
-(indices 21501-22500) derived from publicly available sources.
 
 Usage Conditions:
 1. For academic and research purposes only
@@ -73,6 +71,7 @@ Usage Conditions:
 
 These terms apply only to the data files, not to the software code
 (which is covered by the MIT License in the parent directory).
+
 
 
 
